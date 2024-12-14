@@ -34,8 +34,11 @@ Make sure you have the following installed:
 - [Hugging Face API Key](https://huggingface.co/docs)
 
 ### Installation
-
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/IMAGiNAIry.git
    cd IMAGiNAIry
+### Acknowledgments 
+-[Java Script Mastery](https://www.youtube.com/watch?v=EyIvuigqDoA&t=6026s)
+-[Hugging Face Text To Image Generator Model](https://huggingface.co/ZB-Tech/Text-to-Image)
+1. 
